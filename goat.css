@@ -1,0 +1,19 @@
+body {
+  background-image: url("https://media.giphy.com/media/xTiTnHXbRoaZ1B1Mo8/giphy.gif");
+}
+img {
+  background-color: blue;
+  border: 5px solid red;
+}
+h2 {
+  background-color: #7FFFD4;
+   font-family: "Century Gothic", CenturyGothic, "AppleGothic", sans-serif;
+}
+p {
+  background-color: #FFA500;
+   font-family: "Century Gothic", CenturyGothic, "AppleGothic", sans-serif;
+}
+h1 {
+  font-family: "Century Gothic", CenturyGothic, "AppleGothic", sans-serif;
+  background-image: linear-gradient(to bottom right, red, green, blue);
+}
